@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamiFola
 - 👀 I’m interested in Solution Architecture, Product Management, Agile, SAFe, Coaching, Mentoring
-- 🌱 I’m currently learning SQL, Cloud Computing
+- 🌱 I’m currently learning SQL, Cloud Computing and Technology for Securities Financing
 - 💞️ I’m looking to collaborate on Digital Transformation Products
 - 📫 How to reach me on https://www.linkedin.com/in/adedamolafolarincbap/
 
